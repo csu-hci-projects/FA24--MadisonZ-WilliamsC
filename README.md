@@ -2,10 +2,10 @@
 
 ## HW1
 
-### Members:
+### Groupmembers
 * Christopher Williams - All work done
 
-### Links (Please inform me if any of these do not work, especially with my different circumstance) :
+### Demo & Blueprints Video Links
 * **Demo** : https://youtu.be/lS0aLW31tqA
 * **Blueprint** : https://youtu.be/cdY4jCdxvmk
 
