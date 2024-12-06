@@ -9,7 +9,7 @@
 * **Demo** : https://youtu.be/lS0aLW31tqA
 * **Blueprint** : https://youtu.be/cdY4jCdxvmk
 
-### How to Run the Game: 
+### How to Run the Game
 You can try running the ChristopherW application file, if it does not work you'll have to build it yourself. This can be done by opening the _.uproject_ file using _Unreal Engine 5.0.3_, and playing the game in the editor. Or, building the game based off your currently used operating system.
 
 ### Reference Links
@@ -34,6 +34,9 @@ I emailed the TA's and professor on October 30th about the lack of contribution 
 ### Demo & Blueprints Video Links
 * **Demo** : https://youtu.be/gdkgmZp1kC0
 * **Blueprints** : https://youtu.be/HsUH-_KWUrc
+
+### How to Run the Game
+This was made using UnrealEngine 5.3.2, so this version must be used to create and build the game.
 
 ### Reference Links
 * **VRTarget Bobbing Movement** : https://www.youtube.com/watch?v=M4O1s1JWdU8&ab_channel=ChaseSommer
